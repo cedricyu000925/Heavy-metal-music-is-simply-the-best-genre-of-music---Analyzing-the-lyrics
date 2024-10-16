@@ -60,5 +60,4 @@ Available later
 This project provides valuable insights into the thematic and emotional landscape of heavy metal music. The findings can be useful for music analysts, enthusiasts, and researchers interested in exploring the intricate relationship between lyrics and emotions in this genre.
 
 ## Files Included
-- `Thematic-and-Emotional-Analysis-of-Heavy-Metal-Lyrics.ipynb`: The Python script containing the complete analysis process.
-- `compressed_data.csv.gz`: The dataset used for analysis.
+- A Python script performing the analysis
